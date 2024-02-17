@@ -38,7 +38,7 @@ def bfs(visited, graph, node):
         visited.append(neighbour)
         queue.append(neighbour)
 
-
+print("BFS order is")
 bfs(visited, graph, '5') 
 
 ### Output:
