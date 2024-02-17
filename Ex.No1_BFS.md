@@ -46,23 +46,4 @@ bfs(visited, graph, '5')
 
 
 ### Result:
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-### Output:
-
-
-
-### Result:
 Thus the breadth first search order was found sucessfully.
