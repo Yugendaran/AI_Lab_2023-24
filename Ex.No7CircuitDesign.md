@@ -65,7 +65,10 @@ halfsubtractor(A,B,Diff,Borrow):-
 
 
 ### Output:
+![image](https://github.com/Yugendaran/AI_Lab_2023-24/assets/128135616/0dce60b9-3b34-4899-8eff-1e228bfaf944)
 
+
+![image](https://github.com/Yugendaran/AI_Lab_2023-24/assets/128135616/f87a86d4-092e-4931-998d-9b2d71ba5753)
 
 
 ### Result:
