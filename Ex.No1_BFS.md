@@ -22,10 +22,6 @@ salary of the employee.
 
 ## Program:
 ```
-Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: YUGENDARAN.G 
-RegisterNumber:  212221220063
-
 import pandas as pd
 data=pd.read_csv("/content/Salary.csv")
 
@@ -67,6 +63,7 @@ r2
 
 print("data prediction:")
 dt.predict([[5,6]])
+
 ```
 
 ## Output:
