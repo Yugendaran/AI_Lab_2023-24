@@ -1,11 +1,13 @@
-# Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee
+# EX NO : 13 MINI PROJECT
+### Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee
 
-## AIM:
+### DATE : 22.04.2024
+### Re
+### AIM:
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 
-## Equipments Required:
-1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Jupyter notebook
+### Equipments Required:
+1. Jupyter notebook or Google Colab.
 
 ## Algorithm
 1. Import standard libraries in python for finding Decision tree regressor model for predicting the
