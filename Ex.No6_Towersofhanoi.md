@@ -1,6 +1,6 @@
 # Ex.No: 6   Logic Programming – Towersofhonoi  
 
-### DATE: 23/04/2024  
+### DATE: 09.03.2024  
 
 ### REGISTER NUMBER : 212221220063
 
